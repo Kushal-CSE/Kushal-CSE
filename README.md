@@ -29,7 +29,7 @@
 
 ---
 
-<img align="right" height="150" src="https://media.tenor.com/YOUR-CHOSEN-GIF.gif" alt="Coding GIF"/>
+<img align="right" height="150" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" alt="Coding GIF"/>
 
 ### 🛠️ Languages and Tools
 
