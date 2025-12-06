@@ -15,7 +15,6 @@
 - 🤝 I’m looking for help with **A cybersecurity-based project**
 - 💬 Ask me about **React, JavaScript, Java, Python, OCaml**
 - 📫 Reach me at **kushalkarmakar1@gmail.com**
-- 📝 I regularly write at [HashNode](https://hashnode.com/@Kushal143)
 - 📄 Know about my experiences: [GitHub Profile](https://github.com/Kushal-CSE)
 
 ---
