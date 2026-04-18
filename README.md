@@ -1,75 +1,118 @@
-<h1 align="center">Hi 👋, I'm Kushal Karmakar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Kushal Karmakar</h1>
+<h3 align="center">Backend Engineer | Java | Spring Boot | Distributed Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushal-gitaddress&label=Profile%20views&color=0e75b6&style=flat" alt="kushal-gitaddress" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **AI in mental health**
-- 🌱 I’m currently learning **AWS, Docker, Tailwind CSS, Java**
-- 👯 I’m looking to collaborate on **GUI-based software for productivity**
-- 🤝 I’m looking for help with **A cybersecurity-based project**
-- 💬 Ask me about **React, JavaScript, Java, Python, OCaml**
-- 📫 Reach me at **kushalkarmakar1@gmail.com**
-- 📄 Know about my experiences: [GitHub Profile](https://github.com/Kushal-CSE)
-
----
-
-### 🚀 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushal-gitaddress&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushal-gitaddress&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
----
-
-<img align="right" height="150" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" alt="Coding GIF"/>
-
-### 🛠️ Languages and Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="NodeJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="30" alt="ExpressJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind CSS" />
-</div>
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
   <a href="mailto:kushalkarmakar1@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Email-kushalkarmakar1%40gmail.com-red?style=flat&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/kushal-cse/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://dev.to/kushalcse" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=DEV.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="35" />
+  <a href="https://www.linkedin.com/in/kushal-cse/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kushal%20Karmakar-blue?style=flat&logo=linkedin">
   </a>
 </p>
 
 ---
 
-<br clear="both" />
+## 🚀 About Me
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+Backend engineer focused on building **scalable, maintainable, and production-grade systems**.
 
+- ⚙️ Strong in **Java, Spring Boot, REST APIs**
+- 🧠 Focused on **concurrency & system design**
+- 🗄️ Experienced with **database-driven applications**
+- 🔍 Care about **data consistency & performance under load**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ Systems & Low-Level
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![POSIX](https://img.shields.io/badge/POSIX-Sockets-orange?style=for-the-badge)
+
+### 🤖 AI / Backend Experiments
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 📂 Projects
+
+### 💰 Finance Manager
+Backend system for transaction processing and financial data.
+
+- REST APIs for transaction lifecycle  
+- Categorization, analytics & tracking  
+- Rule-based alerts system  
+- Focused on **data integrity & consistency**
+
+**Stack:** `Java` `Spring Boot` `PostgreSQL` `JWT`
+
+---
+
+### 💬 Multi-Client Chat System
+Real-time backend for multi-user communication.
+
+- WebSocket-based messaging  
+- Message routing pipeline  
+- Active user + room system  
+- Concurrency-safe architecture  
+
+**Stack:** `Java` `Spring Boot` `WebSockets` `PostgreSQL`
+
+---
+
+### 🌐 Multi-Client Socket Server
+Low-level concurrent server system.
+
+- Thread-based client handling  
+- Synchronized communication  
+- Linux port (POSIX + pthreads)  
+- Socket-level control  
+
+**Stack:** `C` `POSIX` `Linux`
+
+---
+
+### 🧠 AI-Based Mental Health Backend 
+Backend for behavioral processing & recommendations.
+
+- Survey + conversational input processing  
+- ML inference integration  
+- Modular recommendation engine  
+
+**Stack:** `Python` `FastAPI` `MongoDB`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushal-CSE&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal-CSE&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Engineering Focus
+
+- Scalable backend architecture  
+- Thread-safe concurrent systems  
+- REST API design  
+- Network & socket programming  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: kushalkarmakar1@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/kushal-cse/  
