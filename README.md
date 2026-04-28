@@ -59,7 +59,7 @@ Backend system for transaction processing and financial data.
 
 ---
 
-### 💬 Multi-Client Chat System
+<!-- ### 💬 Multi-Client Chat System
 Real-time backend for multi-user communication.
 
 - WebSocket-based messaging  
@@ -81,7 +81,7 @@ Low-level concurrent server system.
 
 **Stack:** `C` `POSIX` `Linux`
 
----
+--- -->
 
 ### 🧠 AI-Based Mental Health Backend 
 Backend for behavioral processing & recommendations.
@@ -94,14 +94,14 @@ Backend for behavioral processing & recommendations.
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kushal-CSE&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal-CSE&layout=compact&theme=tokyonight" />
 </p>
 
----
+--- -->
 
 ## 🎯 Engineering Focus
 
