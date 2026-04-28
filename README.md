@@ -1,5 +1,5 @@
 <h1 align="center">Kushal Karmakar</h1>
-<h3 align="center">Backend Engineer | Java | Spring Boot | Distributed Systems</h3>
+<h3 align="center">Backend Engineer | Java | Spring Boot</h3>
 
 <p align="center">
   <a href="mailto:kushalkarmakar1@gmail.com">
